@@ -1,0 +1,563 @@
+{
+    "hasConsent": false,
+    "isPersonal": false,
+    "items": [
+        {
+            "ad-type": "CAR",
+            "description": "Opel Astra 1,6 Automat//Lav Km// EU Ok",
+            "favourite": {
+                "itemId": "436304752",
+                "itemType": "Ad"
+            },
+            "id": "436304752",
+            "image": {
+                "height": 1344,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/436304752/1dc5b60d-83af-4e34-b744-c286e2334992",
+                "width": 768
+            },
+            "location": "Halden",
+            "price": {
+                "value": 40000
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/436304752",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "JOB",
+            "content": {
+                "company_name": "Tryg",
+                "duration": "Heltid",
+                "heading": "Juridisk skadebehandler",
+                "job_title": "Juridisk skadebehandler",
+                "published": "2025-11-03",
+                "published_relative": "1 uke siden"
+            },
+            "description": "Juridisk skadebehandler",
+            "favourite": {
+                "itemId": "435395583",
+                "itemType": "Ad"
+            },
+            "id": "435395583",
+            "image": {
+                "scalable": false,
+                "type": "LOGO",
+                "url": "logo/logo/438567536/20210519/82d2a362-e77a-402a-b8d2-60c73061c25f"
+            },
+            "location": "Lysaker",
+            "score": 1,
+            "type": "AD",
+            "url": "/435395583",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "REALESTATE",
+            "description": "Klassisk og herskapelig familiebolig med vakker hage, garasje og særpreget arkitektur.",
+            "favourite": {
+                "itemId": "432036464",
+                "itemType": "Ad"
+            },
+            "id": "432036464",
+            "image": {
+                "height": 1067,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "2025/10/vertical-2/21/4/432/036/464_ecb47c49-8b0f-4ba7-9b42-f6396edf4d2e.jpg",
+                "width": 1600
+            },
+            "location": "Oslo",
+            "price": {
+                "total": 35893990,
+                "value": 35000000
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/432036464",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "JOB",
+            "content": {
+                "company_name": "Kongsberg Discovery",
+                "duration": "Heltid",
+                "heading": "Manufacturing Operator",
+                "job_title": "Manufacturing Operator",
+                "published": "2025-11-06",
+                "published_relative": "7 dager siden"
+            },
+            "description": "Manufacturing Operator",
+            "favourite": {
+                "itemId": "435879242",
+                "itemType": "Ad"
+            },
+            "id": "435879242",
+            "image": {
+                "scalable": false,
+                "type": "LOGO",
+                "url": "logo/logo/1352638/20231219/dbfcc121-cb0b-4ff4-b906-cfe05088dc10"
+            },
+            "location": "Horten",
+            "score": 1,
+            "type": "AD",
+            "url": "/435879242",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "REALESTATE",
+            "description": "Idyllisk småbruk på ca. 126 daa og med vannlinje til Storavatnet - Jakt -og fiskerettigheter",
+            "favourite": {
+                "itemId": "435745773",
+                "itemType": "Ad"
+            },
+            "id": "435745773",
+            "image": {
+                "height": 1067,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "2025/11/vertical-2/06/3/435/745/773_b85b83a0-a174-4591-865f-bf9676ded3c5.jpg",
+                "width": 1600
+            },
+            "location": "Fitjar",
+            "price": {
+                "total": 3783340,
+                "value": 3690000
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/435745773",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "BAP",
+            "categories": {
+                "main_category": "78",
+                "prod_category": "213",
+                "sub_category": "5196"
+            },
+            "description": "Rundt spisebord",
+            "favourite": {
+                "itemId": "436511920",
+                "itemType": "Ad"
+            },
+            "id": "436511920",
+            "image": {
+                "height": 1289,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/436511920/00d913dc-f7b0-419d-bd70-8dc81cc8b93a",
+                "width": 966
+            },
+            "location": "Oslo",
+            "price": {
+                "value": 500
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/436511920",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "BAP",
+            "categories": {
+                "main_category": "86",
+                "prod_category": "295",
+                "sub_category": "92"
+            },
+            "description": "Rocka 12-strengs gitar fra 1972 - Clarissa.",
+            "favourite": {
+                "itemId": "436374835",
+                "itemType": "Ad"
+            },
+            "id": "436374835",
+            "image": {
+                "height": 3024,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/436374835/20fd7a6d-9446-44ca-9945-97c4cf956788",
+                "width": 3024
+            },
+            "location": "Sveio",
+            "price": {
+                "value": 2200
+            },
+            "score": 1,
+            "shippingOption": {
+                "label": "Fiks ferdig"
+            },
+            "type": "AD",
+            "url": "/436374835",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "CAR",
+            "description": "Peugeot 208 GT Line 136hk",
+            "favourite": {
+                "itemId": "435893512",
+                "itemType": "Ad"
+            },
+            "id": "435893512",
+            "image": {
+                "height": 4284,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/435893512/d4829aee-bfe4-4e06-aea6-95dc19cadde9",
+                "width": 5712
+            },
+            "location": "Kleppestø",
+            "price": {
+                "value": 154434
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/435893512",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "MC",
+            "description": "Honda VFR 800 F *koffertsett, effektanlegg & service*",
+            "favourite": {
+                "itemId": "436650385",
+                "itemType": "Ad"
+            },
+            "id": "436650385",
+            "image": {
+                "height": 1080,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/436650385/19bf07c7-3346-4639-b563-ba0ab4e2073a",
+                "width": 1620
+            },
+            "location": "Rud",
+            "price": {
+                "value": 49900
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/436650385",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "BAP",
+            "categories": {
+                "main_category": "78",
+                "prod_category": "8374",
+                "sub_category": "7756"
+            },
+            "description": "Sofa 3 seter med sjeselong (Norsborg)",
+            "favourite": {
+                "itemId": "436502496",
+                "itemType": "Ad"
+            },
+            "id": "436502496",
+            "image": {
+                "height": 3024,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/436502496/e919789e-bd3c-4f5e-b41b-11175566a5b6",
+                "width": 4032
+            },
+            "location": "Saksvik",
+            "price": {
+                "value": 500
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/436502496",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "REALESTATE",
+            "description": "Særdeles vakker, påkostet eierleilighet. Fjordutsikt. 2 balkonger. 3 soverom. 2 bad. Parkering, peis. V.v og fyring inkl",
+            "favourite": {
+                "itemId": "431857356",
+                "itemType": "Ad"
+            },
+            "id": "431857356",
+            "image": {
+                "height": 1067,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "2025/10/vertical-2/13/6/431/857/356_6d94c7f0-786d-4e9d-ae1b-0f47c0159781.jpg",
+                "width": 1600
+            },
+            "location": "Oslo",
+            "price": {
+                "total": 15244525,
+                "value": 14450000
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/431857356",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "BAP",
+            "categories": {
+                "main_category": "78",
+                "prod_category": "212",
+                "sub_category": "5196"
+            },
+            "description": "Flott teak sidebord/salongbord",
+            "favourite": {
+                "itemId": "435563179",
+                "itemType": "Ad"
+            },
+            "id": "435563179",
+            "image": {
+                "height": 2560,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/435563179/c27fb4a2-32e1-4411-b67e-d914b23e9edf",
+                "width": 2490
+            },
+            "location": "Stathelle",
+            "price": {
+                "value": 800
+            },
+            "score": 1,
+            "shippingOption": {
+                "label": "Fiks ferdig"
+            },
+            "type": "AD",
+            "url": "/435563179",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "BAP",
+            "categories": {
+                "main_category": "69",
+                "prod_category": "265",
+                "sub_category": "3938"
+            },
+            "description": "Norrøna Trollveggen Gore-Tex PRO rescue Jakke Svart Herre L",
+            "favourite": {
+                "itemId": "436119291",
+                "itemType": "Ad"
+            },
+            "id": "436119291",
+            "image": {
+                "height": 1765,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/436119291/a918e671-942d-4e08-8229-65748b2f1d4f",
+                "width": 1324
+            },
+            "location": "Godvik",
+            "price": {
+                "value": 6000
+            },
+            "score": 1,
+            "shippingOption": {
+                "label": "Fiks ferdig"
+            },
+            "type": "AD",
+            "url": "/436119291",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "REALESTATE",
+            "description": "Storslått villa på 558 m² med panoramautsikt - Sjelden mulighet i Fjellsiden | Garasje og utleie",
+            "favourite": {
+                "itemId": "435445297",
+                "itemType": "Ad"
+            },
+            "id": "435445297",
+            "image": {
+                "height": 1198,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "2025/11/vertical-2/07/7/435/445/297_674bec2a-4cf3-4f1b-b9b4-5b9d8960880c.jpg",
+                "width": 1600
+            },
+            "location": "Bergen",
+            "price": {
+                "total": 20417090,
+                "value": 19900000
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/435445297",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "JOB",
+            "content": {
+                "company_name": "Kongsberg Defence & Aerospace - Defence Systems - Advanced Solutions",
+                "duration": "Heltid",
+                "heading": "Manager Business Development",
+                "job_title": "Manager Business Development",
+                "published": "2025-10-29",
+                "published_relative": "2 uker siden"
+            },
+            "description": "Manager Business Development",
+            "favourite": {
+                "itemId": "434549875",
+                "itemType": "Ad"
+            },
+            "id": "434549875",
+            "image": {
+                "height": 1740,
+                "scalable": false,
+                "type": "LOGO",
+                "url": "logo/logo/-3455/20191219/182f6764-8638-4211-9708-a0655f870221",
+                "width": 2500
+            },
+            "location": "Asker",
+            "score": 1,
+            "type": "AD",
+            "url": "/434549875",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "CAR",
+            "description": "BMW 3-serie 330e 2*M sport/ Påkostet/ Laser/ HUD/ Krok/ Norsk ++",
+            "favourite": {
+                "itemId": "435983132",
+                "itemType": "Ad"
+            },
+            "id": "435983132",
+            "image": {
+                "height": 1066,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/435983132/a053a593-791b-49e1-bcaf-784ca60eeb7d",
+                "width": 1600
+            },
+            "location": "Rådal",
+            "price": {
+                "value": 299900
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/435983132",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "BAP",
+            "categories": {
+                "main_category": "68",
+                "prod_category": "9775",
+                "sub_category": "3912"
+            },
+            "description": "Masse LEGO selges ! ☺️",
+            "favourite": {
+                "itemId": "436664004",
+                "itemType": "Ad"
+            },
+            "id": "436664004",
+            "image": {
+                "height": 1600,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "item/436664004/86044d25-6612-4d2f-a95f-a3164eb3d53a",
+                "width": 1200
+            },
+            "location": "Ranheim",
+            "price": {
+                "value": 1000
+            },
+            "score": 1,
+            "shippingOption": {
+                "label": "Fiks ferdig"
+            },
+            "type": "AD",
+            "url": "/436664004",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "JOB",
+            "content": {
+                "company_name": "Norsk Landbruksrådgiving SA",
+                "duration": "Heltid",
+                "heading": "Forsøkstekniker på Jæren",
+                "job_title": "Forsøkstekniker",
+                "published": "2025-10-29",
+                "published_relative": "2 uker siden"
+            },
+            "description": "Forsøkstekniker",
+            "favourite": {
+                "itemId": "434556704",
+                "itemType": "Ad"
+            },
+            "id": "434556704",
+            "image": {
+                "height": 667,
+                "scalable": false,
+                "type": "LOGO",
+                "url": "item/434556704/eb6535e8-1490-4313-ac8c-d5c3e8b34fa9",
+                "width": 2084
+            },
+            "location": "Klepp stasjon",
+            "overlay": {
+                "easyapply": {
+                    "label": "Enkel søknad"
+                },
+                "label": "Enkel søknad",
+                "style": "success"
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/434556704",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "JOB",
+            "content": {
+                "company_name": "Romerike Avfallsforedling IKS",
+                "duration": "Heltid",
+                "heading": "Kundekonsulent",
+                "job_title": "Kundekonsulent",
+                "published": "2025-10-28",
+                "published_relative": "2 uker siden"
+            },
+            "description": "Kundekonsulent",
+            "favourite": {
+                "itemId": "434440679",
+                "itemType": "Ad"
+            },
+            "id": "434440679",
+            "image": {
+                "height": 300,
+                "scalable": false,
+                "type": "LOGO",
+                "url": "item/434440679/242bac21-d17e-4db0-b582-0ee4add77634",
+                "width": 400
+            },
+            "location": "Skedsmokorset",
+            "score": 1,
+            "type": "AD",
+            "url": "/434440679",
+            "version": "mul-popular"
+        },
+        {
+            "ad-type": "REALESTATE",
+            "description": "Hel firemannsbolig; flott utleieobjekt med 4 enheter pluss hybel. Dobbelgarasje, stor hage og mange muligheter i kjeller",
+            "favourite": {
+                "itemId": "433683059",
+                "itemType": "Ad"
+            },
+            "id": "433683059",
+            "image": {
+                "height": 1201,
+                "scalable": true,
+                "type": "GENERAL",
+                "url": "2025/10/vertical-2/24/9/433/683/059_dbc06766-b095-44c6-85f5-034a01828b51.jpg",
+                "width": 1800
+            },
+            "location": "Oslo",
+            "price": {
+                "total": 17056545,
+                "value": 16640000
+            },
+            "score": 1,
+            "type": "AD",
+            "url": "/433683059",
+            "version": "mul-popular"
+        }
+    ],
+    "size": 200,
+    "version": "mul-popular"
+}
